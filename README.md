@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **NutriAI**, a project to revolutionize nutrition tracking with AI  
+- 🔭 I’m currently working on bangingYourMother , a project to revolutionize nutrition tracking with AI  
 - 🌱 I’m constantly learning and improving my skills in React, JavaScript, and AI integration  
 - ⚡ Fun fact: **Ctrl + Z** is the most used feature in coding and life alike 🧠  
 - 💬 Ask me about frontend development, UI/UX design, or React.js  
@@ -41,9 +41,7 @@
   <a href="https://www.leetcode.com/creation22" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
   </a>
-  <a href="https://twitter.com/_creation22" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="40" width="40" />
-  </a>
+
 </p>
 
 ---
