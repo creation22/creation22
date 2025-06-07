@@ -84,10 +84,7 @@
 
 Feel free to connect or collaborate! I'm always open to discussing new projects, ideas, or opportunities.
 
-- **LinkedIn:** [linkedin.com/in/srajan-gupta](https://linkedin.com/in/srajan-gupta)  
-- **Instagram:** [instagram.com/iamsrajan22](https://instagram.com/iamsrajan22)  
-- **Twitter:** [twitter.com/_creation22](https://twitter.com/_creation22)  
-- **LeetCode:** [leetcode.com/creation22](https://leetcode.com/creation22)  
+ 
 
 ---
 
