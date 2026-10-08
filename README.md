@@ -15,7 +15,7 @@ full-stack at [uncensored](https://uncensored.com) · previously sold [dailygeet
 
 ---
 
-i ship products, talk to users, and sell the ones that work. currently writing software at a stealth startup. before that i built dailygeeta — a gita-in-your-inbox saas — got 20+ paid users, and sold it.
+i ship products, talk to users, and sell the ones that work. currently writing software at a stealth startup. 
 
 the rest of this page is things that actually went live.
 
